@@ -1,1 +1,3 @@
 Sample file
+
+Added one more function.
