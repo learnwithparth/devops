@@ -1,3 +1,5 @@
 Sample file
 
 Added one more function.
+
+Added some function.
